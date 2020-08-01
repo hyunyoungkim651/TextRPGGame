@@ -18,3 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/68934135/89099406-e4776900-d429-11ea-8c7f-4abbc313406f.png)
 
+- Inventory 화면
+
+![image](https://user-images.githubusercontent.com/68934135/89099419-138dda80-d42a-11ea-9abc-a159c052e90e.png)
+
+- Battle 화면
+
