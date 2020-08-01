@@ -1,5 +1,6 @@
 # TextRPGGame
 ## 텍스트로하는 RPG게임 입니다.
+- IDE : Visual Studio 2019
 
 - 열거체와 구조체를 사용하였다.
 - 최대한 함수를 활용하였습니다.
